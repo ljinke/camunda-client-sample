@@ -1,6 +1,6 @@
 # camunda-client-sample
 
-Sample to use camunda-client
+Get started sample to use camunda-client following: https://docs.camunda.org/get-started/quick-start/.
 
 ### Setup
 
